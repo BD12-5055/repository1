@@ -2,10 +2,11 @@ body {
   background-color:black;
   color:white;
   font-family: 'Oswald', sans-serif;
-  font-size:30px;
+  font-size:40px;
 }
 .name {
   border:2px solid white;
+  border-radius:5px;
   padding:80px 180px 80px 180px;
   text-align:center;
   width:20%;
