@@ -10,4 +10,7 @@ body {
   padding:80px 180px 80px 180px;
   text-align:center;
   width:20%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
