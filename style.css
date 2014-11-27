@@ -5,6 +5,7 @@ body {
 }
 .name {
   border:2px solid white;
-  padding:;20px;
-  width:30%;
+  padding:20px;
+  width:20%;
+  text-align:center;
 }
