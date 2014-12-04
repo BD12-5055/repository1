@@ -11,9 +11,15 @@ body {
   padding:80px 180px 80px 180px;
   text-align:center;
   width:20%;
-  top:10vh;
+  top:5vh;
   left:50vw;
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
+}
+.projects {
+  left:50vw;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%); 
 }
