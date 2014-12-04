@@ -11,11 +11,7 @@ body {
   padding:80px 180px 80px 180px;
   text-align:center;
   width:20%;
-  position: relative;
-  top:20vh;
-  -webkit-transform: translateY(-100%);
-  -ms-transform: translateY(-100%);
-  transform: translateY(-100%);
+  top:10vh;
   left:50vw;
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
