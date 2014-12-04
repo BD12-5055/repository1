@@ -12,6 +12,9 @@ body {
   text-align:center;
   width:20%;
   top:5vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 h2 {
   text-align:center;
