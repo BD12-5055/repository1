@@ -12,10 +12,6 @@ body {
   text-align:center;
   width:20%;
   top:5vh;
-  left:50vw;
-  -webkit-transform: translateX(-50%);
-  -ms-transform: translateX(-50%);
-  transform: translateX(-50%);
 }
 h2 {
   text-align:center;
