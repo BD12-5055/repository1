@@ -2,6 +2,7 @@ body {
   background-color:black;
   color:white;
   font-family: 'Oswald', sans-serif;
+  font-weight:40px;
   font-style:light;
 }
 .name {
@@ -20,5 +21,9 @@ h3 {
 }
 .center {
   text-align:center;
+}
+a {
+  text-decoration:none;
+  color:white;
 }
 
