@@ -1,6 +1,9 @@
+body {
+  background:#000;
+}
 .spacejamlogo {
   display:block;
   width:35vw;
   margin:auto;
-  top:20vh;
+  margin-top:20vh;
 }
