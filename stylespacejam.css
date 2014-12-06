@@ -3,10 +3,10 @@ body {
 }
 .legal {
   position:absolute;
-  width:20em;
-  height:10vh;
+  width:20vw;
+  height:5vh;
   margin:auto;
-  top:90vh;
+  top:95vh;
   color:#ff0000;
 }
 .spacejamlogo {
