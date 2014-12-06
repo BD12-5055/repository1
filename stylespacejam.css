@@ -3,6 +3,7 @@ body {
 }
 .legal {
   position:absolute;
+  text-align:center;
   width:20vw;
   height:5vh;
   margin:auto;
