@@ -1,6 +1,11 @@
 body {
   background:#000;
 }
+legal {
+  margin:auto;
+  color:red;
+  
+}
 .spacejamlogo {
   display:block;
   height:60vh;
