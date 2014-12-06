@@ -4,6 +4,7 @@ body {
 .legal {
   position:absolute;
   text-align:center;
+  font-family:Helvetica, sans-serif;
   width:50vw;
   height:5vh;
   margin:auto;
