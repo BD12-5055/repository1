@@ -2,7 +2,8 @@ body {
   background:#000;
 }
 .legal {
-  
+  position:absolute;
+  width:20em;
   height:10vh;
   margin:auto;
   margin-top:90vh;
