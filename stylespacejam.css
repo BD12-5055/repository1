@@ -1,10 +1,9 @@
 body {
   background:#000;
 }
-legal {
+.legal {
   margin:auto;
   color:#ff0000;
-  
 }
 .spacejamlogo {
   display:block;
