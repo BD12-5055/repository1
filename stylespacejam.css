@@ -4,11 +4,11 @@ body {
 .legal {
   position:absolute;
   text-align:center;
-  width:20vw;
+  width:50vw;
   height:5vh;
   margin:auto;
   top:95vh;
-  left:40vw;
+  left:25vw;
   color:#ff0000;
 }
 .spacejamlogo {
